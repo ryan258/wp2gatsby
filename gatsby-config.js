@@ -36,7 +36,7 @@ module.exports = {
         // Indicates if the site is hosted on WordPress.com
         hostingWPCOM: false,
         // Specify which URL structures to fetch
-        includedRoutes: ["**/posts", "**/tags", "**/categories"],
+        includedRoutes: ["**/posts", "**/tags", "**/categories", "**/pages"],
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
